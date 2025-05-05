@@ -1,0 +1,40 @@
+Thriveni Eluri
+📞 9603694163 | ✉️ thrivenieluri1@gmail.com | 📍 Hyderabad
+Professional Summary
+Accomplished and detail-oriented React JS Developer with over 5+ years of comprehensive experience in building and enhancing Single Page Applications (SPAs) for both web and mobile platforms. Brings 3+ years of specialized expertise as a Frontend Developer and 2 years of focused experience in Manual Testing, including writing and executing test cases, UI validation, and performing regression and functional testing. Proficient in leveraging modern frontend technologies such as React JS, Redux, Bootstrap, and Material UI to deliver high-performing, responsive, and user-friendly interfaces. Demonstrates a proven ability to integrate APIs, apply Agile practices, and collaborate effectively with cross-functional teams to meet evolving business needs.
+Technical Skills
+•	Frontend: JavaScript (ES6+), React JS, Redux, HTML5, CSS3, Bootstrap, Material UI
+•	Backend Integration: RESTful APIs, JSON
+•	Tools & Version Control: Git, GitHub, Jira, Kanban Boards, CI/CD
+•	Testing & Debugging: Manual Testing, API Testing, Functional Testing, UI Testing
+•	Development Methodologies: Agile, Scrum
+•	Other: Responsive Web Design, Cross-Browser Compatibility, State Management
+Professional Experience
+Senior Software Developer | HCL Technologies Ltd. | Nov 2022 – Present
+Software Engineer | CitiusTech Healthcare Technology Pvt Ltd. | Aug 2021 – Nov 2022
+Junior Software Engineer | Caddy Code Solution Pvt Ltd. | May 2019 – May 2021
+Key Projects
+Chevron – Kognitwin Product Integration
+•	Built and maintained scalable SPA applications using React JS, Redux, and RESTful API integrations.
+•	Integrated new workflows based on client requirements using the Kognitwin framework.
+•	Led initiatives to troubleshoot integration issues, ensuring consistent metadata synchronization with 3D views.
+•	Imported and processed 3D models, implemented document imports, and hot-spotted metadata tags for enhanced visualization.
+•	Configured and maintained CI/CD pipelines to support weekly production deployments and delta processing activities.
+•	Managed CI/CD pipelines for efficient, error-free code deployment and weekly production releases.
+•	Collaborated with QA teams to fix bugs and deliver feature updates based on delta processing.
+
+Patient Portal Integration Management System
+•	Built a multi-module healthcare portal enabling user registration, verification, and physician scheduling.
+•	Designed user profiles, admin dashboards, and physician management interfaces using React JS, Redux, and Bootstrap.
+•	Developed RESTful API connections for patient records and appointment scheduling workflows.
+•	Ensured full mobile responsiveness and web accessibility across all modules.
+6 Storage – Self Storage Management System
+•	Developed and supported modules including account creation, lead management, move-in/move-out processes, and lease tracking.
+•	Integrated online payment gateway systems and enhanced tenant portal functionality.
+•	Conducted manual testing, API testing, and created test cases to ensure high-quality releases.
+•	Improved UI responsiveness and usability across web and mobile platforms.
+Education
+•	B.E.(CSE), Chalapathi Institute of Engineering & Technology, Guntur — 2019
+•	Senior Secondary (MPC), Sri Chaitanya Junior College, Guntur — 2015
+•	Secondary School, St. Ann’s English Medium High School, Macherla — 2013
+
